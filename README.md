@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0383-ransom-note](https://github.com/Mishrajee03/Dsa/tree/master/0383-ransom-note) |
 | [1108-defanging-an-ip-address](https://github.com/Mishrajee03/Dsa/tree/master/1108-defanging-an-ip-address) |
 | [1704-determine-if-string-halves-are-alike](https://github.com/Mishrajee03/Dsa/tree/master/1704-determine-if-string-halves-are-alike) |
+| [1768-merge-strings-alternately](https://github.com/Mishrajee03/Dsa/tree/master/1768-merge-strings-alternately) |
 ## Counting
 |  |
 | ------- |
@@ -17,4 +18,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0383-ransom-note](https://github.com/Mishrajee03/Dsa/tree/master/0383-ransom-note) |
+## Two Pointers
+|  |
+| ------- |
+| [1768-merge-strings-alternately](https://github.com/Mishrajee03/Dsa/tree/master/1768-merge-strings-alternately) |
 <!---LeetCode Topics End-->
