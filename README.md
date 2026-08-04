@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0383-ransom-note](https://github.com/Mishrajee03/Dsa/tree/master/0383-ransom-note) |
+| [3731-find-missing-elements](https://github.com/Mishrajee03/Dsa/tree/master/3731-find-missing-elements) |
 ## Two Pointers
 |  |
 | ------- |
@@ -33,4 +34,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0415-add-strings](https://github.com/Mishrajee03/Dsa/tree/master/0415-add-strings) |
+## Array
+|  |
+| ------- |
+| [3731-find-missing-elements](https://github.com/Mishrajee03/Dsa/tree/master/3731-find-missing-elements) |
+## Sorting
+|  |
+| ------- |
+| [3731-find-missing-elements](https://github.com/Mishrajee03/Dsa/tree/master/3731-find-missing-elements) |
 <!---LeetCode Topics End-->
