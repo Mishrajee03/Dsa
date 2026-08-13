@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0008-string-to-integer-atoi](https://github.com/Mishrajee03/Dsa/tree/master/0008-string-to-integer-atoi) |
+| [0179-largest-number](https://github.com/Mishrajee03/Dsa/tree/master/0179-largest-number) |
 | [0383-ransom-note](https://github.com/Mishrajee03/Dsa/tree/master/0383-ransom-note) |
 | [0415-add-strings](https://github.com/Mishrajee03/Dsa/tree/master/0415-add-strings) |
 | [0443-string-compression](https://github.com/Mishrajee03/Dsa/tree/master/0443-string-compression) |
@@ -37,9 +38,15 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0179-largest-number](https://github.com/Mishrajee03/Dsa/tree/master/0179-largest-number) |
 | [3731-find-missing-elements](https://github.com/Mishrajee03/Dsa/tree/master/3731-find-missing-elements) |
 ## Sorting
 |  |
 | ------- |
+| [0179-largest-number](https://github.com/Mishrajee03/Dsa/tree/master/0179-largest-number) |
 | [3731-find-missing-elements](https://github.com/Mishrajee03/Dsa/tree/master/3731-find-missing-elements) |
+## Greedy
+|  |
+| ------- |
+| [0179-largest-number](https://github.com/Mishrajee03/Dsa/tree/master/0179-largest-number) |
 <!---LeetCode Topics End-->
